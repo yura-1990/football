@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+madrid.ibercup.com	TRUE	/	FALSE	1999999999	device_view	full
+madrid.ibercup.com	TRUE	/	FALSE	1999999999	PHPSESSID	lgve0dlldrp9ptb7e3v3anqa88
+madrid.ibercup.com	TRUE	/	FALSE	1999999999	samesite	lax
+
